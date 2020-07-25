@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/Hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/ankitpriyarup/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,8 +18,7 @@ I am a developer, hacker, sport programmer and VR-AR & AI enthusiast. I love to 
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/gifs/
-gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/ankitpriyarup/ankitpriyarup/master/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
