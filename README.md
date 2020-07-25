@@ -29,7 +29,8 @@ gif" />
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: ankitpriyarup@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpriyarup)](https://github.com/anuraghazra/github-readme-stats)
+[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitpriyarup)](https://github.com/ankitpriyarup/github-readme-stats)
+
 
 #
 
