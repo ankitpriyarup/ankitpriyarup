@@ -28,7 +28,7 @@ I am a developer, hacker, sport programmer and VR-AR & AI enthusiast. I love to 
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 How to reach me: ankitpriyarup@gmail.com
 
-[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitpriyarup)](https://github.com/ankitpriyarup/github-readme-stats)
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitpriyarup&count_private=true)
 
 
 #
