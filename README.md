@@ -6,9 +6,6 @@
 <a href="https://codeforces.com/profile/ankitpriyarup">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-<a href="https://www.codechef.com/users/ankit_priyarup">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
 
 <br />
 
