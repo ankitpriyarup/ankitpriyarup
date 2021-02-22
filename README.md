@@ -19,7 +19,7 @@ I am a developer, hacker, sport programmer and VR-AR & AI enthusiast. I love to 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with - Machine Learning, Computer Vision, Artificial Intelligence, Android Studio, Unity, OpenGL, Flask, PHP, etc 💻.
+- 🛠 I’m currently working with - Angular, React, JavaScript, TypeScript, Machine Learning, Android Studio, Unity, OpenGL, Flask, PHP, etc 💻.
 - 👨🏻‍💻 I’m currently learning Full Stack Development 🚀 and CP Algorithms.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
